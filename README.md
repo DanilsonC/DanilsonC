@@ -8,8 +8,6 @@
 
 ## 🛠️ My favorite tools
 
-<br>
-
 ### 👨‍💻 Programming Languages
 
 <p>
